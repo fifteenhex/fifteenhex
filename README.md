@@ -2,7 +2,7 @@
 
 I wondered how people made a page about how great they are appear on their profile and now I know!
 
-Have some blinken lights for your efforts:
+Have some blinkenlights for your efforts:
 
 ![oldskool](mvme147.gif)
 
