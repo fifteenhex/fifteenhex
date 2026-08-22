@@ -18,6 +18,7 @@ Have some blinkenlights for your efforts:
 
 - First double free added to the kernel: https://github.com/torvalds/linux/commit/0b9266d295cee170509539635b8d572abe5267af
 - First Phoronix famous: https://www.phoronix.com/news/Linux-PCI-Amiga-4000
+- Second Phoronix famous: https://www.phoronix.com/news/Linux-7.3-FBDEV
 - First hackernews famous: https://news.ycombinator.com/item?id=48720186
 
 #### Work flow:
