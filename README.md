@@ -25,3 +25,4 @@ Have some blinkenlights for your efforts:
 
 - Github actions are updating my copies of repos like Linux, u-boot etc once a day.
 - My branches are a crime against humanity.
+- TODO list is here: https://github.com/fifteenhex/too-much-to-do-too-little-time
